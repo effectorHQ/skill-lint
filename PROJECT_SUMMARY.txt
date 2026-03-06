@@ -5,7 +5,7 @@
 
 PROJECT LOCATION
 ================================================================================
-/sessions/vibrant-awesome-hawking/mnt/OpenClawHQ/openclaw-cli/
+/sessions/vibrant-awesome-hawking/mnt/effectorHQ/openclaw-cli/
 
 PROJECT OVERVIEW
 ================================================================================
@@ -24,7 +24,7 @@ FILES CREATED
 ROOT CONFIGURATION & DOCUMENTATION:
   • README.md              - Professional README with features, quick start, command reference
   • pyproject.toml         - Modern Python project configuration with dependencies
-  • LICENSE                - MIT License (Copyright 2026 OpenClawHQ Contributors)
+  • LICENSE                - MIT License (Copyright 2026 effectorHQ Contributors)
   • CHANGELOG.md           - Detailed changelog for version 0.1.0
 
 MAIN SOURCE CODE:
@@ -234,5 +234,5 @@ All code is:
   • Documented (docstrings, README, changelog, command help)
 
 ================================================================================
-Built by OpenClawHQ. We move first.
+Built by effectorHQ. We move first.
 ================================================================================

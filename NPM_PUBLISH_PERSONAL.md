@@ -9,7 +9,7 @@ The package name is set to `@afkv/skill-lint`. After you publish with your npm a
 In `package.json`, set `name` from:
 
 ```json
-"name": "@openclawHQ/skill-lint"
+"name": "@effectorhq/skill-lint"
 ```
 
 to (already set for npm user `afkv`):
@@ -39,7 +39,7 @@ Enter your npm username, password, email, and one-time password (if 2FA is enabl
 From the project root (scoped packages require `--access public` or they stay private):
 
 ```bash
-cd /Users/dujiayi/Desktop/OpenClawHQ/skill-lint
+cd /Users/dujiayi/Desktop/effectorHQ/skill-lint
 npm publish --access public
 ```
 
@@ -66,4 +66,4 @@ skill-lint
 
 ## Optional: Switch to an org package later
 
-If you create an **openclawHQ** organization on npm and add your account, you can change `package.json` `name` back to `@openclawHQ/skill-lint`, bump the version (e.g. to `0.1.1`), and run `npm publish --access public` again. Both package names can coexist (one under your user, one under the org).
+If you create an **openclawHQ** organization on npm and add your account, you can change `package.json` `name` back to `@effectorhq/skill-lint`, bump the version (e.g. to `0.1.1`), and run `npm publish --access public` again. Both package names can coexist (one under your user, one under the org).

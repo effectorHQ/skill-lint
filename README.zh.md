@@ -1,6 +1,6 @@
 # skill-lint
 
-[![npm](https://img.shields.io/npm/v/@openclawHQ/skill-lint?color=E03E3E&logo=npm&logoColor=white)](https://www.npmjs.com/package/@openclawHQ/skill-lint) [![CI](https://github.com/OpenClawHQ/skill-lint/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenClawHQ/skill-lint/actions) [![Node.js ≥ 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![npm](https://img.shields.io/npm/v/@effectorhq/skill-lint?color=E03E3E&logo=npm&logoColor=white)](https://www.npmjs.com/package/@effectorhq/skill-lint) [![CI](https://github.com/effectorHQ/skill-lint/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint/actions) [![Node.js ≥ 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 **[English →](./README.md)**
 
@@ -25,13 +25,13 @@
 ## 安装
 
 ```bash
-npm install -g @openclawHQ/skill-lint
+npm install -g @effectorhq/skill-lint
 ```
 
 或本地安装：
 
 ```bash
-npm install --save-dev @openclawHQ/skill-lint
+npm install --save-dev @effectorhq/skill-lint
 ```
 
 ## 使用
@@ -174,10 +174,10 @@ skill-lint SKILL.md || exit 1
 
 ### GitHub Actions
 
-推荐直接使用 [skill-lint-action](https://github.com/OpenClawHQ/skill-lint-action)——零配置，PR 行内标注：
+推荐直接使用 [skill-lint-action](https://github.com/effectorHQ/skill-lint-action)——零配置，PR 行内标注：
 
 ```yaml
-- uses: OpenClawHQ/skill-lint-action@v1
+- uses: effectorHQ/skill-lint-action@v1
 ```
 
 或手动集成 CLI：
@@ -185,7 +185,7 @@ skill-lint SKILL.md || exit 1
 ```yaml
 - uses: actions/checkout@v4
 - uses: actions/setup-node@v4
-- run: npm install -g @openclawHQ/skill-lint
+- run: npm install -g @effectorhq/skill-lint
 - run: skill-lint SKILL.md
 ```
 
@@ -236,7 +236,7 @@ MIT — 详见 [LICENSE](./LICENSE)
 
 - [OpenClaw](https://github.com/openclaw/openclaw) — 主项目
 - [ClawHub](https://clawhub.com) — 官方 skill 注册中心
-- [skill-lint-action](https://github.com/OpenClawHQ/skill-lint-action) — 本工具的 GitHub Action 封装版
+- [skill-lint-action](https://github.com/effectorHQ/skill-lint-action) — 本工具的 GitHub Action 封装版
 
 ---
 

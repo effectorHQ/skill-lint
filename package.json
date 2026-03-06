@@ -20,11 +20,11 @@
     "validate",
     "skill.md"
   ],
-  "author": "OpenClawHQ Contributors",
+  "author": "effectorHQ Contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenClawHQ/skill-lint.git"
+    "url": "git+https://github.com/effectorHQ/skill-lint.git"
   },
   "files": [
     "bin",
