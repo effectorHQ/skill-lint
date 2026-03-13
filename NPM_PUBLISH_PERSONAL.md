@@ -1,6 +1,6 @@
 # Publish skill-lint with a personal npm account
 
-The package name is set to `@afkv/skill-lint`. After you publish with your npm account, others can run `npx @afkv/skill-lint`.
+The package name is set to `@effectorhq/skill-lint`. After you publish with your npm account, others can run `npx @effectorhq/skill-lint`.
 
 ---
 
@@ -15,7 +15,7 @@ In `package.json`, set `name` from:
 to (already set for npm user `afkv`):
 
 ```json
-"name": "@afkv/skill-lint"
+"name": "@effectorhq/skill-lint"
 ```
 
 Save the file.
@@ -43,7 +43,7 @@ cd /Users/dujiayi/Desktop/effectorHQ/skill-lint
 npm publish --access public
 ```
 
-On success you will see something like: `+ @afkv/skill-lint@0.1.0`
+On success you will see something like: `+ @effectorhq/skill-lint@0.1.0`
 
 ---
 
@@ -52,13 +52,13 @@ On success you will see something like: `+ @afkv/skill-lint@0.1.0`
 Anyone (including you) can run:
 
 ```bash
-npx @afkv/skill-lint
+npx @effectorhq/skill-lint
 ```
 
 Or install globally then run:
 
 ```bash
-npm install -g @afkv/skill-lint
+npm install -g @effectorhq/skill-lint
 skill-lint
 ```
 

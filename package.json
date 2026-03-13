@@ -1,7 +1,7 @@
 {
-  "name": "@afkv/skill-lint",
-  "version": "0.1.0",
-  "description": "Lint and validate OpenClaw SKILL.md files before publishing",
+  "name": "@effectorhq/skill-lint",
+  "version": "0.2.0",
+  "description": "Lint and validate SKILL.md files for the Effector ecosystem",
   "type": "module",
   "bin": {
     "skill-lint": "bin/skill-lint.js"
@@ -14,7 +14,7 @@
     "node": ">=18"
   },
   "keywords": [
-    "openclaw",
+    "effector",
     "skill",
     "lint",
     "validate",
