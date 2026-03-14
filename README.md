@@ -1,14 +1,14 @@
 # skill-lint
 
-[![npm](https://img.shields.io/npm/v/@effectorhq/skill-lint?color=E03E3E&logo=npm&logoColor=white)](https://www.npmjs.com/package/@effectorhq/skill-lint) [![CI](https://github.com/effectorHQ/skill-lint/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint/actions) [![Node.js ≥ 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
+[![npm](https://img.shields.io/npm/v/@effectorhq/skill-lint?color=E03E3E&logo=npm&logoColor=white)](https://www.npmjs.com/package/@effectorhq/skill-lint) [![Status: Beta](https://img.shields.io/badge/status-beta-yellow)](https://github.com/effectorHQ/REPO-TIERS.md) [![CI](https://github.com/effectorHQ/skill-lint/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint/actions) [![Node.js ≥ 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
 
 **[中文文档 →](./README.zh.md)**
 
-A lightweight Node.js CLI tool for linting and validating OpenClaw SKILL.md files before publishing to ClawHub.
+A lightweight Node.js CLI tool for linting and validating effector SKILL.md files before publishing to ClawHub.
 
 ## Overview
 
-`skill-lint` ensures that your OpenClaw skills follow best practices and are ready for publication. It validates SKILL.md file structure, required fields, metadata completeness, and markdown content quality.
+`skill-lint` ensures that your effector skills follow best practices and are ready for publication. It validates SKILL.md file structure, required fields, metadata completeness, and markdown content quality.
 
 ## Features
 
