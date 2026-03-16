@@ -8,4 +8,4 @@
 export {
   parseSkillFile,
   extractMetadata,
-} from '../../effector-core/src/skill-parser.js';
+} from '@effectorhq/core/skill';

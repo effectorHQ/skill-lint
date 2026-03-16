@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "node --test test/**/*.test.js",
-    "lint": "node ./bin/skill-lint.js"
+    "lint": "node ./bin/skill-lint.js",
+    "prepublishOnly": "npm test && npm run lint"
   },
   "engines": {
     "node": ">=18"
@@ -25,6 +26,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/effectorHQ/skill-lint.git"
+  },
+  "dependencies": {
+    "@effectorhq/core": "file:../effector-core"
   },
   "files": [
     "bin",
