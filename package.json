@@ -15,10 +15,11 @@
     "node": ">=18"
   },
   "keywords": [
-    "effector",
-    "skill",
+    "ai-agent",
     "lint",
-    "validate",
+    "skill",
+    "effector",
+    "validation",
     "skill.md"
   ],
   "author": "effectorHQ Contributors",
@@ -26,6 +27,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/effectorHQ/skill-lint.git"
+  },
+  "homepage": "https://github.com/effectorHQ/skill-lint",
+  "bugs": {
+    "url": "https://github.com/effectorHQ/skill-lint/issues"
   },
   "dependencies": {
     "@effectorhq/core": "file:../effector-core"
