@@ -22,17 +22,20 @@ A lightweight Node.js CLI tool for linting and validating effector SKILL.md file
 - **JSON Output** - Machine-readable JSON output with `--json` flag
 - **No External Dependencies** - Built with Node.js built-ins only
 
-## Installation
+## Install
 
 ```bash
-npm install -g @effectorhq/skill-lint
+npm install @effectorhq/skill-lint
 ```
 
-Or install locally:
+You can also use the CLI directly without installing globally:
 
 ```bash
-npm install --save-dev @effectorhq/skill-lint
+npx @effectorhq/skill-lint .
+npx @effectorhq/skill-lint ./path/to/SKILL.md
 ```
+
+See the published package on npm: **https://www.npmjs.com/package/@effectorhq/skill-lint**
 
 ## Usage
 
