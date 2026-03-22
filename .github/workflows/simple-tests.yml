@@ -1,8 +1,10 @@
 # Security / Simple checks / Typo / Build (org defaults)
-name: Simple tests (manual only)
+name: Checks
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
 
 jobs:
   security-analysis:
