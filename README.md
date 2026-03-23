@@ -1,6 +1,6 @@
 # skill-lint
 
-[![npm](https://img.shields.io/npm/v/@effectorhq/skill-lint?color=E03E3E&logo=npm&logoColor=white)](https://www.npmjs.com/package/@effectorhq/skill-lint) [![Status: Beta](https://img.shields.io/badge/status-beta-yellow)](https://github.com/effectorHQ/REPO-TIERS.md) [![CI](https://github.com/effectorHQ/skill-lint/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint/actions) [![Node.js ≥ 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![License: Apache 2.0](https://img.shields.io/badge/license-Apache-2.0-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
+[![npm](https://img.shields.io/npm/v/@effectorhq/skill-lint?color=E03E3E&logo=npm&logoColor=white)](https://www.npmjs.com/package/@effectorhq/skill-lint) [![Status: Beta](https://img.shields.io/badge/status-beta-yellow)](https://github.com/effectorHQ/REPO-TIERS.md) [![CI](https://github.com/effectorHQ/skill-lint/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint/actions) [![Node.js ≥ 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
 
 **[中文文档 →](./README.zh.md)**
 
@@ -282,9 +282,7 @@ Contributions welcome! Please:
 
 ## License
 
-
-This project is currently licensed under the Apache 2.0 License 。
-
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。
 
 ## Links
 
