@@ -24,7 +24,7 @@ FILES CREATED
 ROOT CONFIGURATION & DOCUMENTATION:
   • README.md              - Professional README with features, quick start, command reference
   • pyproject.toml         - Modern Python project configuration with dependencies
-  • LICENSE                - MIT License (Copyright 2026 effectorHQ Contributors)
+  • LICENSE                - Apache License 2.0 (Copyright 2026 effectorHQ Contributors)
   • CHANGELOG.md           - Detailed changelog for version 0.1.0
 
 MAIN SOURCE CODE:
@@ -79,7 +79,7 @@ my-plugin/
 │   └── test_plugin.py           - Pytest test suite with 3 test methods
 ├── pyproject.toml               - Configured for the generated plugin
 ├── README.md                    - Plugin README template
-└── LICENSE                      - MIT License
+└── LICENSE                      - Apache License 2.0
 
 QUALITY ASSURANCE
 ================================================================================
