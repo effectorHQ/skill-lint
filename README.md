@@ -1,3 +1,10 @@
+> **📦 Consolidated.** This package is now part of [`effectorHQ/effector`](https://github.com/OpenClawHQ/effectorhq) → `packages/lint/`.
+> All active development continues in the monorepo. This repository remains available for reference.
+>
+> Linting is now integrated into `effector check .` via the unified CLI.
+
+---
+
 # skill-lint
 
 [![npm](https://img.shields.io/npm/v/@effectorhq/skill-lint?color=E03E3E&logo=npm&logoColor=white)](https://www.npmjs.com/package/@effectorhq/skill-lint) [![Status: Beta](https://img.shields.io/badge/status-beta-yellow)](https://github.com/effectorHQ/REPO-TIERS.md) [![CI](https://github.com/effectorHQ/skill-lint/actions/workflows/ci.yml/badge.svg)](https://github.com/effectorHQ/skill-lint/actions) [![Node.js ≥ 18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/effectorHQ/.github/blob/main/CONTRIBUTING.md)
